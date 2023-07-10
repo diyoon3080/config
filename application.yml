@@ -1,1 +1,3 @@
-test: config-client
+name:
+  first: default-fisrtname
+  last: default-lastname
